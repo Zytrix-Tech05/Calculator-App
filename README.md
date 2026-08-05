@@ -1,8 +1,12 @@
 # Simple Calculator
 
-A responsive calculator built using HTML, CSS, and JavaScript.
+A modern calculator built using HTML, CSS, and JavaScript.
 
-## Features
+## Live Demo
+
+(https://zytrix-tech05.github.io/Calculator-App/.)
+
+## ✨ Features
 
 - Addition
 - Subtraction
@@ -19,13 +23,26 @@ A responsive calculator built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## How to Run
+## Screenshot
 
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
+
+
+![Calculator Screenshot](calculator.png)
+
+## Project Structure
+
+Calculator-App/
+
+├── index.html
+
+├── style.css
+
+├── script.js
+
+└── README.md
 
 ## Author
 
 Ohene Richmond Kwasi
 
-GitHub: Zytrix-Tech05
+GitHub: https://github.com/Zytrix-Tech05
